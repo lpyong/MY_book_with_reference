@@ -1,0 +1,17 @@
+推荐一本机器学习入门的好书：《机器学习实战：基于Scikit-Learn和TensorFlow》。
+
+本书主要分为两部分，第一部分（第1~8章）涵盖机器学习的基础理论知识和基本算法，从线性回归到随机森林等，可以帮助你掌握Scikit-Learn的常用方法；第二部份（第9~16章）探讨深度学习和常用框架TensorFlow，手把手教你使用TensorFlow搭建和训练深度神经网络，以及卷积神经网络。
+
+这本书受到广大机器学习爱好者的好评，可以说是机器学习入门宝书，豆瓣评分8.2。
+
+这本书假定您有一些 Python 编程经验，并且比较熟悉 Python 的主要科学库，特别是 NumPy，Pandas 和 Matplotlib 。
+
+二、资源
+
+本书作者公开了配套的源代码：
+https://github.com/ageron/handson-ml
+国内一个公益组织对原版英文书进行了翻译，制作成markdown文件（md文件推荐使用typora阅读），可以在github下载：
+https://github.com/apachecn/hands-on-ml-zh
+
+
+https://zhuanlan.zhihu.com/p/60238885
